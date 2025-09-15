@@ -1,4 +1,4 @@
-
+```cpp
 %%writefile PB302_1.cpp
 //Programa para iprimir mensaje de bienvenida
 //Creado por Paola Mendoza Villalobos
@@ -12,3 +12,4 @@ int main()
   cout<<"Gracias por programar en clase";
   return 0;
 }
+```
